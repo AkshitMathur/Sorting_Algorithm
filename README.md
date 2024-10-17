@@ -6,10 +6,9 @@ Experiment_20
 - [Software Used](#software-used)
 - [Theory](#theory)
   * [Definition](#Definition)
-  * [Properties](#Properties-of-Sorting Algorithms)
-  * [Advantages](#Advantages-of-Sorting Algorithms)
-  * [Modes](#Modes-of-Inheritance)
-  * [Types](#Types-of-Inheritance)
+  * [Properties](#Properties-of-Sorting-Algorithms)
+  * [Advantages](#Advantages-of-Sorting-Algorithms)
+  * [Types](#Types-of-Sorting-Algorithm)
 - [Algorithms](#algorithms)
 - [Conclusion](#conclusion)
 
