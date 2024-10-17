@@ -23,7 +23,6 @@ VS Code , Dev C++
 A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
 For Example: The below list of characters is sorted in increasing order of their ASCII values. That is, the character with a lesser ASCII value will be placed first than the character with a higher ASCII value.
 Sorting refers to rearrangement of a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure. Sorting means reordering of all the elements either in ascending or in descending order.
-![image](https://github.com/user-attachments/assets/3efcdfde-8d10-43f1-82bd-509cda71dbc4)
 
 ### Properties of the Sorting Algorithm
 Sorting algorithms can be characterized by several properties that help evaluate their efficiency and suitability for different tasks. Here are the key properties:
